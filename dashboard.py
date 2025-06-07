@@ -229,5 +229,3 @@ with tab_estado:
     
     with col2:
         st.plotly_chart(fig_emissoes_estado_setor)
-
-#st.dataframe(emissoes_estados)
